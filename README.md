@@ -1,2 +1,3 @@
-# Berlin
-кладбища Берлина
+{ "type": "Point", 
+    "coordinates": [30, 10]
+}
